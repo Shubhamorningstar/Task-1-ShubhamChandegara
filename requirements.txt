@@ -1,0 +1,2 @@
+# KrishnaBot AI — optional dependency for .env API key loading
+python-dotenv>=1.0.0
